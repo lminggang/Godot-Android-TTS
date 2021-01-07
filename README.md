@@ -9,6 +9,8 @@ git clone git@192.168.1.110:liminggang/godot-android-tts-plugin.git
 
 # 编译后的 .aar 文件，存储在
     texttospeech/build/outputs/aar/texttospeech-debug.aar
+
+PS: 如果 Build 后未发现 .arr 文件, 请点击项目 texttospeech 后再重新 Build 尝试
 ```
 
 ## 示例
