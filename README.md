@@ -1,7 +1,7 @@
 # Godot-Android-TTS-Plugin
 ```
 # 下载本项目
-git clone git@192.168.1.110:liminggang/godot-android-tts-plugin.git
+git clone https://github.com/lminggang/Godot-Android-TTS-Plugin.git
 
 # 使用 Android Studio 打开本项目
 
